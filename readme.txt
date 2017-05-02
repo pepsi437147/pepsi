@@ -3,4 +3,4 @@ i am free.
 Git is free software
 git is nb.
 git branch dev 
-git checkout dev
+git checkout update e t
